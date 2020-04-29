@@ -1,6 +1,4 @@
-# FAST project
-
-A high level view of a the FAST project architecture
+# High level architecture (FAST project)
 
 My online-[Interactive version](https://oslo.cristianvasquez.me/)
 
