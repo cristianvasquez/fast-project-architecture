@@ -1,4 +1,6 @@
-# High level architecture (FAST project)
+# High level architecture
+
+General architecture and components of the Semantic Workflow Processor system developed within the FAST project. The goal is to improve the customer journey of public services in Flanders. 
 
 My online-[Interactive version](https://oslo.cristianvasquez.me/)
 
